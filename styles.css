@@ -31,3 +31,11 @@ body{
 .color{
     color:green;
 }
+.image{
+    background-image: url('https://raw.githubusercontent.com/JAPHETHNYARANGA/Favorite-Band-project/main/images/chainsmokers.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    /* background-size: 80%; */
+    background-position: center;
+
+}
