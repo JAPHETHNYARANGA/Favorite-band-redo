@@ -31,6 +31,7 @@ body{
 .color{
     color:green;
 }
+
 .image{
     background-image: url('https://raw.githubusercontent.com/JAPHETHNYARANGA/Favorite-Band-project/main/images/chainsmokers.jpg');
     background-repeat: no-repeat;
@@ -88,7 +89,7 @@ li{
 .nav>ul>li>a:hover{
     color:white;
 }
-mid-section{
+.mid-section{
     text-align: center;
     /* display:flex;
     flex-direction: column; */
@@ -148,17 +149,14 @@ button:hover{
 .favoritesongs>h1{
     color:green;
 }
-.favoritesongs{
+.favoritesongs>ul>li>a{
+ text-decoration: none;
+ padding:20px;
+ font-size: 20px;
+}
+.song-section{
     text-align: center;
-   
-}
-.favoritesongs>ul{
-    display:flex;
-    flex-direction:column;
-    justify-content: space-between;
-}
-.favoritesongs>h1{
-    color:green;
+    margin:20px;
 }
 #but{
     width:40%;
