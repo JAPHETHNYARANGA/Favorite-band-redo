@@ -136,3 +136,15 @@ button:hover{
 #member2>button{
     margin:5% 0% 0% 30%;
 }
+.favoritesongs{
+    text-align: center;
+   
+}
+.favoritesongs>ul{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+.favoritesongs>h1{
+    color:green;
+}
