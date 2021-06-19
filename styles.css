@@ -39,3 +39,44 @@ body{
     background-position: center;
 
 }
+#member1{
+    margin-top: 10%;
+    height:50vh;
+    box-sizing:border-box;
+    padding:20px;
+}
+#member1>img{
+    float:left;
+    margin-left: 10%;
+}
+#member1>p{
+    float:right;
+    box-sizing: border-box;
+    width:60%;
+    font-size: 24px;
+    color:red;
+}
+#member2{
+    box-sizing:border-box;
+    height:50vh;
+}
+#member2>img{
+    float:right;
+    margin-right: 10%;
+}
+#member2>p{
+box-sizing: border-box;
+float:left;
+    box-sizing: border-box;
+    width:60%;
+    font-size: 24px;
+    color:red;
+    
+}
+li{
+    display:inline;
+
+}
+.nav1{
+    margin-top: 40px;
+}
