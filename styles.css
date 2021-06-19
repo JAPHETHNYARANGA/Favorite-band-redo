@@ -88,3 +88,27 @@ li{
 .nav>ul>li>a:hover{
     color:white;
 }
+mid-section{
+    text-align: center;
+    /* display:flex;
+    flex-direction: column; */
+    margin-bottom: 200px;
+    color:blanchedalmond;
+    height:300px;
+}
+.mid-section>h1{
+    font-size: 50px;
+    color:green;
+}
+.mid-section>ol{
+    display: flex;
+    flex-direction: column;
+    margin-right: 300px;
+    padding:30px;
+}
+.mid-section>ol>li>a{
+    text-decoration: none;
+    font-size: medium;
+    color: blanchedalmond;
+    
+}
