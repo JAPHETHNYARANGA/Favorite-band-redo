@@ -160,3 +160,12 @@ button:hover{
 .favoritesongs>h1{
     color:green;
 }
+#but{
+    width:40%;
+    font-size: 20px;
+  
+}
+#but>a{
+    text-decoration: none;
+    color:white;
+}
